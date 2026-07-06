@@ -14,8 +14,8 @@ An interactive Data Analytics dashboard built using Python and Streamlit to anal
 * `Online Retail.xlsx`: The original transaction dataset used for the analysis.
 
 ## 📊 Project Preview & Documentation
-📄 Exported Report:
-📺 Video Demo:
+
+📺 Video Demo:https://github.com/GiridharNandyala/E-Commerce-Customer-Analytics/blob/main/E-Commenrece-Analysis-Dashboard.mp4
 
 ## 🛠️ Tech Stack
 * **Language:** Python
